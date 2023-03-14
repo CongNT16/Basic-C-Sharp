@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Module2\bin\Debug\net6.0\Module2.exe
+C:\Users\user\source\repos\Module2\bin\Debug\net6.0\Module2.deps.json
+C:\Users\user\source\repos\Module2\bin\Debug\net6.0\Module2.runtimeconfig.json
+C:\Users\user\source\repos\Module2\bin\Debug\net6.0\Module2.dll
+C:\Users\user\source\repos\Module2\bin\Debug\net6.0\Module2.pdb
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\Module2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\Module2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\Module2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\Module2.AssemblyInfo.cs
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\Module2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\Module2.dll
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\refint\Module2.dll
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\Module2.pdb
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\Module2.genruntimeconfig.cache
+C:\Users\user\source\repos\Module2\obj\Debug\net6.0\ref\Module2.dll

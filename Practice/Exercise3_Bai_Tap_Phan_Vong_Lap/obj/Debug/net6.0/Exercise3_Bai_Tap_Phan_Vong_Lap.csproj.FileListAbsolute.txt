@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\bin\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.exe
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\bin\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.deps.json
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\bin\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.runtimeconfig.json
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\bin\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.dll
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\bin\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.pdb
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.dll
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\refint\Exercise3_Bai_Tap_Phan_Vong_Lap.dll
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.pdb
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\Exercise3_Bai_Tap_Phan_Vong_Lap.genruntimeconfig.cache
+C:\Users\user\source\repos\Exercise3_Bai_Tap_Phan_Vong_Lap\obj\Debug\net6.0\ref\Exercise3_Bai_Tap_Phan_Vong_Lap.dll

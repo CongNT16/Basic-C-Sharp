@@ -1,0 +1,18 @@
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\bin\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.exe
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\bin\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.deps.json
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\bin\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.runtimeconfig.json
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\bin\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.dll
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\bin\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.pdb
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.dll
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\refint\Exercise_1_Bai_Tap_Co_Ban.dll
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.pdb
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.genruntimeconfig.cache
+C:\Users\user\source\repos\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\ref\Exercise_1_Bai_Tap_Co_Ban.dll
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.dll
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\refint\Exercise_1_Bai_Tap_Co_Ban.dll
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Exercise_1_Bai_Tap_Co_Ban\obj\Debug\net6.0\Exercise_1_Bai_Tap_Co_Ban.pdb

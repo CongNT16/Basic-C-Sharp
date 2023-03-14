@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.exe
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.deps.json
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.runtimeconfig.json
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.dll
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.pdb
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.AssemblyInfo.cs
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.dll
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\refint\Bai_Tap_Phan_Mang_So.dll
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.pdb
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.genruntimeconfig.cache
+C:\Users\user\source\repos\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\ref\Bai_Tap_Phan_Mang_So.dll
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.exe
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.deps.json
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.runtimeconfig.json
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.dll
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\bin\Debug\net6.0\Bai_Tap_Phan_Mang_So.pdb
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.csproj.AssemblyReference.cache
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.AssemblyInfoInputs.cache
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.AssemblyInfo.cs
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.csproj.CoreCompileInputs.cache
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.dll
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\refint\Bai_Tap_Phan_Mang_So.dll
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.pdb
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\Bai_Tap_Phan_Mang_So.genruntimeconfig.cache
+F:\FPT\Ky 5\PRN211\thamkhao\baitap\Bai_Tap_Phan_Mang_So\obj\Debug\net6.0\ref\Bai_Tap_Phan_Mang_So.dll

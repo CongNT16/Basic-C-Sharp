@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\bin\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.exe
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\bin\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.deps.json
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\bin\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.runtimeconfig.json
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\bin\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.dll
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\bin\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.pdb
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.dll
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\refint\Exercise2_Bai_Tap_Phan_Dieu_Kien.dll
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.pdb
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\Exercise2_Bai_Tap_Phan_Dieu_Kien.genruntimeconfig.cache
+C:\Users\user\source\repos\Exercise2_Bai_Tap_Phan_Dieu_Kien\obj\Debug\net6.0\ref\Exercise2_Bai_Tap_Phan_Dieu_Kien.dll
